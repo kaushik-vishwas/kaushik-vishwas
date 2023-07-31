@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://kaushik-vishwas.io)
+[![MasterHead](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)](https://kaushik-vishwas.io)
 <h1 align="center">Hi 👋, I'm Kaushik Biswas</h1>
 <h3 align="center">A Passionate Full Stack Web Developer and UI UX Designer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
