@@ -1,6 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)](https://kaushik-vishwas.io)
 <h1 align="center">Hi 👋, I'm Kaushik Biswas</h1>
-<h3 align="center">A Passionate Full Stack Web Developer and UI UX Designer from India</h3>
+<h3 align="center">A Passionate Full Stack Web Developer in MERN and UI UX Designer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushik-vishwas&label=Profile%20views&color=0e75b6&style=flat" alt="kaushik-vishwas" /> </p>
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Native, Python Advanced**
 
-- 💬 Ask me about **MEARN**
+- 💬 Ask me about **MERN**
 
 - 📫 Email Me At **kaushikbiswascse@gmail.com**
 
